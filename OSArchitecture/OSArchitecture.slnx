@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OSArchitecture/OSArchitecture.vcxproj" Id="bb926b4d-b515-4199-9e54-6ed9ed371a17" />
+</Solution>
