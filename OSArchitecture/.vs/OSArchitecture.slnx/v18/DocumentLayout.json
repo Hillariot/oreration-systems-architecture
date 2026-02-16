@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|solutionrelative:OSArchitecture\\ZeroAndOverflowCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowASM.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|solutionrelative:OSArchitecture\\ZeroAndOverflowASM.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|solutionrelative:OSArchitecture\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|solutionrelative:OSArchitecture\\ZeroAndOverflowCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB926B4D-B515-4199-9E54-6ED9ED371A17}|OSArchitecture\\OSArchitecture.vcxproj|C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowCPP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,46 +44,46 @@
               "RelativeDocumentMoniker": "OSArchitecture\\ZeroAndOverflowCPP.h",
               "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowCPP.h",
               "RelativeToolTip": "OSArchitecture\\ZeroAndOverflowCPP.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-15T16:26:31.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ZeroAndOverflowASM.asm",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowASM.asm",
               "RelativeDocumentMoniker": "OSArchitecture\\ZeroAndOverflowASM.asm",
               "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowASM.asm",
               "RelativeToolTip": "OSArchitecture\\ZeroAndOverflowASM.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-15T16:08:32.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\Source.cpp",
               "RelativeDocumentMoniker": "OSArchitecture\\Source.cpp",
               "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\Source.cpp",
               "RelativeToolTip": "OSArchitecture\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-15T15:58:13.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ZeroAndOverflowCPP.cpp",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowCPP.cpp",
               "RelativeDocumentMoniker": "OSArchitecture\\ZeroAndOverflowCPP.cpp",
               "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440 \u041D\u0435\u0431\u043E\u0440\u0430\u043A\\Documents\\GitHub\\oreration-systems-architecture\\OSArchitecture\\OSArchitecture\\ZeroAndOverflowCPP.cpp",
               "RelativeToolTip": "OSArchitecture\\ZeroAndOverflowCPP.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-15T16:06:28.999Z",
               "EditorCaption": ""

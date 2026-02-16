@@ -5,19 +5,21 @@ using namespace std;
 
 
 
-extern "C"	int _stdcall checkOfZeroAndOverflowASM(int a, int b);
+extern "C"	int _stdcall checkOfZeroAndOverflowASM(int a, int c, int d);
 extern "C" unsigned char error;
 
 
 int main()
 {
-	int a, b, result;
-	cout << "Please, enter divisible: ";
+	int a, c,d, result;
+	cout << "Please, enter a: ";
 	cin >> a;
-	cout << "Please, enter divider: ";
-	cin >> b;
-	cout << checkOfZeroAndOverflowCPP(a, b) << '\n';
-	result=checkOfZeroAndOverflowASM(a, b);
+	cout << "Please, enter c: ";
+	cin >> c;
+	cout << "Please, enter d: ";
+	cin >> c;
+	cout << checkOfZeroAndOverflowCPP(a, c,d) << '\n';
+	result=checkOfZeroAndOverflowASM(a, c, d);
 	if (error == 1)
 		cout << "Error: division by zero\n";
 	else if (error == 2)

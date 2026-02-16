@@ -7,14 +7,12 @@ using namespace std;
 
 
 
-string checkOfZeroAndOverflowCPP(int a, int b)
+string checkOfZeroAndOverflowCPP(int a, int c,int d)
 {
-	if (b == 0)
+	if (a/4-1 == 0)
 		return "Sorry, but you entered zero as divider, that's incredible";
-	if (a==INT32_MIN and b== -1)
-		return "Sorry, but entered numbers that's call entered";
 
-	return "Result: " + to_string(a / b) + " without division by zero";
+	return "Result: " + to_string((2*c-d+23)/(a/4-1)) + " without division by zero";
 }
 
 
