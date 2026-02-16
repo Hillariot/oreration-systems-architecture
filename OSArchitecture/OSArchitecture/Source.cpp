@@ -17,7 +17,7 @@ int main()
 	cout << "Please, enter c: ";
 	cin >> c;
 	cout << "Please, enter d: ";
-	cin >> c;
+	cin >> d;
 	cout << checkOfZeroAndOverflowCPP(a, c,d) << '\n';
 	result=checkOfZeroAndOverflowASM(a, c, d);
 	if (error == 1)
