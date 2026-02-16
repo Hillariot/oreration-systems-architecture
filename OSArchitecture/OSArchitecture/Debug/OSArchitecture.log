@@ -1,4 +1,2 @@
-﻿Debug\ZeroAndOverflow.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
-Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl checkOfZeroAndOverflowCPP(int,int)" (?checkOfZeroAndOverflowCPP@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) в функции _main.
-Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _checkOfZeroAndOverflowASM в функции _main.
-C:\Users\Егор Неборак\Documents\GitHub\oreration-systems-architecture\OSArchitecture\Debug\OSArchitecture.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
+﻿  ZeroAndOverflowCPP.cpp
+  OSArchitecture.vcxproj -> C:\Users\Егор Неборак\Documents\GitHub\oreration-systems-architecture\OSArchitecture\Debug\OSArchitecture.exe

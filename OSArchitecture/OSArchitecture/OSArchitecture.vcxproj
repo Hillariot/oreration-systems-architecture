@@ -129,15 +129,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
-    <ClCompile Include="ZeroAndOverflow.cpp" />
+    <ClCompile Include="ZeroAndOverflowCPP.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="ZeroAndOverflow.asm">
+    <MASM Include="ZeroAndOverflowASM.asm">
       <FileType>Document</FileType>
     </MASM>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ZeroAndOverflow.h" />
+    <ClInclude Include="ZeroAndOverflowCPP.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

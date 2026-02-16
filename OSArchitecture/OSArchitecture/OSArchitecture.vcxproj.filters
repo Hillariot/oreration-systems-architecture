@@ -18,17 +18,17 @@
     <ClCompile Include="Source.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="ZeroAndOverflow.cpp">
+    <ClCompile Include="ZeroAndOverflowCPP.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ZeroAndOverflow.h">
+    <ClInclude Include="ZeroAndOverflowCPP.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="ZeroAndOverflow.asm">
+    <MASM Include="ZeroAndOverflowASM.asm">
       <Filter>Исходные файлы</Filter>
     </MASM>
   </ItemGroup>

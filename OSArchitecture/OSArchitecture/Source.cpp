@@ -1,22 +1,29 @@
 #include <iostream>
-#include "ZeroAndOverflow.h"
+#include "ZeroAndOverflowCPP.h"
 
 using namespace std;
 
-extern "C"
-{
-	int checkOfZeroAndOverflowASM(int a, int b);
-}
+
+
+extern "C"	int _stdcall checkOfZeroAndOverflowASM(int a, int b);
+extern "C" unsigned char error;
+
 
 int main()
 {
-	int a, b;
+	int a, b, result;
 	cout << "Please, enter divisible: ";
 	cin >> a;
 	cout << "Please, enter divider: ";
 	cin >> b;
 	cout << checkOfZeroAndOverflowCPP(a, b) << '\n';
-	cout << "Result:" << checkOfZeroAndOverflowASM(a, b);
+	result=checkOfZeroAndOverflowASM(a, b);
+	if (error == 1)
+		cout << "Error: division by zero\n";
+	else if (error == 2)
+		cout << "Error: overflow\n";
+	else
+		cout << "Result: " << result << "\n";
 
 	return 0;
 }
